@@ -9,3 +9,7 @@ CREATE TABLE "User" (
 CREATE UNIQUE INDEX "User_email_key" ON "User"("email");
 
 INSERT INTO "User" ("email", "name") VALUES ('jane@prisma.io', 'Jane Doe');
+INSERT INTO "User" ("email", "name") VALUES ('jane@prisma.io', 'Jane Doe');
+INSERT INTO "User" ("email", "name") VALUES ('jane@prisma.io', 'Jane Doe');
+INSERT INTO "User" ("email", "name") VALUES ('jane@prisma.io', 'Jane Doe');
+INSERT INTO "User" ("email", "name") VALUES ('jane@prisma.io', 'Jane Doe');
